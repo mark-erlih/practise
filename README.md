@@ -1,3 +1,3 @@
 # practise
-some info
+some info \n
 info about me
